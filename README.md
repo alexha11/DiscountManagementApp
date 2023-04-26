@@ -1,5 +1,5 @@
 # Discount Management App
-We’re building an app that provides users with the best discounts online and in the set area. The user can set the area they live in, and the categories they are interested in. The app’s algorithm will then showcase the best discounts to the users. This helps the users to save money and time while providing the opportunity for businesses to draw in more customers and leads.
+I'm building an app that provides users with the best discounts online and in the set area. The user can set the area they live in, and the categories they are interested in. The app’s algorithm will then showcase the best discounts to the users. This helps the users to save money and time while providing the opportunity for businesses to draw in more customers and leads.
 
 The discount management application was developed using Java, with Java Swing utilized to provide users with an appealing interface. Additionally, PgAdmin 4 was employed to manage the application's data.
 
